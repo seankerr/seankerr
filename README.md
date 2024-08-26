@@ -4,7 +4,7 @@ I'm a full-stack software engineer and former Senior Software Engineer at Blackb
 
 My preferred stack is Python / FastAPI / Postgres / Celery / Vue. And my choice of service infrastructure is AWS.
 
-For more personal information, visit my <a href="https://seankerr.dev/" target="sean_kerr_blog">blog</a>.
+For more personal information, visit my [blog](https://seankerr.dev/).
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
