@@ -53,9 +53,6 @@ For more personal information, visit my [blog](https://seankerr.dev/).
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=seankerr&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seankerr&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=seankerr&icon=0&color=0)](https://visitcount.itsvg.in)
 
