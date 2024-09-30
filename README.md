@@ -1,10 +1,14 @@
 ## Hey there, I'm Sean Kerr 👋
 
-I'm a full-stack software engineer and former Senior Software Engineer at Blackberry.
+I'm a full-stack software engineer and former Sr. Software Engineer at Blackberry.
 
 My preferred stack is Python / FastAPI / Postgres / Celery / Vue. And my choice of service infrastructure is AWS.
 
 For more personal information, visit my [blog](https://seankerr.dev/).
+
+<!--
+[RebillHQ](https://rebillhq.com) is a subscription platform I've been developing. Login to the free Live Demo and tell me what you think.
+-->
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
